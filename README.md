@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me:
 <!--   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   <a href="https://fb.com/100022452892166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100022452892166" height="30" width="40" /></a> -->
-  <a href="https://linkedin.com/in/amankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankumar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aman-kumar-0b1b03219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankumar" height="30" width="40" /></a>
   <a href="https://instagram.com/mr_aman614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_aman614" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/amankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amankumar" height="30" width="40" /></a>
 - ### :hammer_and_wrench: Languages and Tools :
