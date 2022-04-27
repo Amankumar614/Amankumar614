@@ -59,7 +59,7 @@
     <a href="https://twitter.com/amankum89904972">
     <img src=https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" alt="Instagram Badge"/>
   </a> -->
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Amankumar614&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
